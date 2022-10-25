@@ -7,3 +7,8 @@ public class TesteConversao {
 	}
 
 }
+
+// int guarda 2milhões numeros
+//long numeroGrande =324342323225L
+// short valorPEQUENO = 2131
+// BYTE = 127
