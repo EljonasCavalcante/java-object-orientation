@@ -13,7 +13,6 @@
 * um programa Java possui uma entrada que é uma função (método) main
 * para imprimir algo no console usamos a instrução System.out.println()
 
-
   * Atalho importantes: <br>
 escreva(main) + Ctrl + space = public static void main(String[] args){} <br>
 escreva(sysout) + Ctrl + space = System.out.println()
