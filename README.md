@@ -17,5 +17,4 @@
 escreva(main) + Ctrl + space = public static void main(String[] args){} <br>
 escreva(sysout) + Ctrl + space = System.out.println()
 
-
 ![Captura de tela 2022-10-26 125548](https://user-images.githubusercontent.com/85083611/198075566-eaf1a3fa-3338-46d1-a222-9003cf61873b.png)
